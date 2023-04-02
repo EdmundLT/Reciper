@@ -5,6 +5,11 @@ namespace Reciper.Model.Recipe;
 
 public class Recipe
 {
+    public Recipe()
+    {
+        Ingredients = new List<Ingredient>();
+        Instructions = new List<Instruction>();
+    }
     [Key]
     public int RecipeId { get; set; }
     

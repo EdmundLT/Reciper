@@ -125,3 +125,7 @@
 /Users/longtang/Developer/Reciper/Reciper/obj/Debug/net6.0/Reciper.genruntimeconfig.cache
 /Users/longtang/Developer/Reciper/Reciper/obj/Debug/net6.0/ref/Reciper.dll
 /Users/longtang/Developer/Reciper/Reciper/bin/Debug/net6.0/AutoMapper.dll
+/Users/longtang/Developer/Reciper/Reciper/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/longtang/Developer/Reciper/Reciper/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/longtang/Developer/Reciper/Reciper/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/longtang/Developer/Reciper/Reciper/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll

@@ -33,6 +33,8 @@ public class AuthController : ControllerBase
         //Add to Database
         _context.Users.Add(user);
         await _context.SaveChangesAsync();
+        string jwtoken = CreateToken(user);
+        HttpContext.Response.Headers.Add("Authorization", "Bearer " + jwtoken);
         return Ok(user);
 
     }
@@ -52,6 +54,7 @@ public class AuthController : ControllerBase
         }
 
         string jwtoken = CreateToken(user);
+        HttpContext.Response.Headers.Add("Authorization", "Bearer " + jwtoken);
         return Ok(jwtoken);
     }
 
