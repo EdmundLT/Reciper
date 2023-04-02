@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Reciper.Model.User;
 
 public class UserDto
@@ -6,4 +8,3 @@ public class UserDto
     public string password { get; set; }
     public string email { get; set; } = string.Empty;
 }
-
