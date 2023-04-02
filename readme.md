@@ -1,5 +1,5 @@
 # Reciper
-Reciper is a simple recipe management API developed using .NET 5 and EF Core. It allows users to create, view, update, and delete recipes along with their ingredients and instructions.
+Reciper is a simple recipe management API developed using .NET 6 and EF Core. It allows users to create, view, update, and delete recipes along with their ingredients and instructions.
 
 ## Installation
 To install Reciper, you'll need to have .NET 5 SDK and a compatible database management system installed on your system. You can follow these steps to install Reciper:
