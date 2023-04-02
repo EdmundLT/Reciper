@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "W6iO267ySrD099sPXxlrqUsYn5rUKbEqMhEOQBQasoFTFLzrVckkmHCJYnu4riTxiZCgyqfolyCcmlocMilFPg==",
+  "dgSpecHash": "FIESUSaXZHC1FWKV44U8+3wj0n/ZiYSuvBJdqPpWC0xUH1sAyKnrTjFDxyXLyAs1qz9Wqx36mwdMwPTVeOeC5g==",
   "success": true,
-  "projectFilePath": "/Users/longtang/Developer/Rider/Reciper/Reciper/Reciper.csproj",
+  "projectFilePath": "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj",
   "expectedPackageFiles": [
+    "/Users/longtang/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/longtang/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
-    "/Users/longtang/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/longtang/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/longtang/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/longtang/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/longtang/.nuget/packages/microsoft.entityframeworkcore/6.0.15/microsoft.entityframeworkcore.6.0.15.nupkg.sha512",

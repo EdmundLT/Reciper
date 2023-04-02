@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using Reciper.Data;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -14,6 +13,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("AzureConnection"));
 });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
