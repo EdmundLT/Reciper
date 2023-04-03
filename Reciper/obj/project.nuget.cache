@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnFk1X8zG+J9nfztHIspNqnwC0VZPdX1yHHWH5umTxTxzpaI18yAy6MRC/MmCDYTZeHY8LTZXVVni1h+jAaJRg==",
+  "dgSpecHash": "fbx2/AOcn0NXGH8cgyz91rDDK1P+BWxxhI6+nnynCDlONA7PZgF+H1imgeRxOL5YGgeHBXhWd9eHclVkNfSMtQ==",
   "success": true,
-  "projectFilePath": "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj",
+  "projectFilePath": "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/Reciper.csproj",
   "expectedPackageFiles": [
     "/Users/longtang/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/longtang/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
