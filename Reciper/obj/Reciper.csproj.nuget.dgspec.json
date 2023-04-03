@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj": {}
+    "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/Reciper.csproj": {}
   },
   "projects": {
-    "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj": {
+    "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/Reciper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj",
+        "projectUniqueName": "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/Reciper.csproj",
         "projectName": "Reciper",
-        "projectPath": "/Users/longtang/Developer/Reciper/Reciper/Reciper.csproj",
+        "projectPath": "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/Reciper.csproj",
         "packagesPath": "/Users/longtang/.nuget/packages/",
-        "outputPath": "/Users/longtang/Developer/Reciper/Reciper/obj/",
+        "outputPath": "/Users/longtang/Developer/Project-Reciper/Reciper/Reciper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/longtang/.nuget/NuGet/NuGet.Config"
