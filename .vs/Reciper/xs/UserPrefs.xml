@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{71124343-8C76-40D9-A4A8-722DF4904AA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Reciper PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reciper/Program.cs">
+    <Files>
+      <File FileName="Reciper/Program.cs" Line="15" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reciper" expanded="True">
+            <Node name="Reciper" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
